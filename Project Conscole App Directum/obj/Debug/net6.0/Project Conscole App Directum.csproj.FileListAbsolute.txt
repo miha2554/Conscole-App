@@ -1,0 +1,60 @@
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.exe
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.deps.json
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.runtimeconfig.json
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.dll
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.pdb
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.csproj.AssemblyReference.cache
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.AssemblyInfoInputs.cache
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.AssemblyInfo.cs
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.csproj.CoreCompileInputs.cache
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.dll
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/refint/Project Conscole App Directum.dll
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.pdb
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.genruntimeconfig.cache
+C:/Users/Андрей/Downloads/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/ref/Project Conscole App Directum.dll
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.csproj.AssemblyReference.cache
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.GeneratedMSBuildEditorConfig.editorconfig
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.AssemblyInfoInputs.cache
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.AssemblyInfo.cs
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.csproj.CoreCompileInputs.cache
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.dll
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/refint/Project Conscole App Directum.dll
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.pdb
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.deps.json
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.runtimeconfig.json
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.dll
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/bin/Debug/net6.0/Project Conscole App Directum.pdb
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/Project Conscole App Directum.genruntimeconfig.cache
+/home/remi/Projects/Tests/CS/Project_Conscole_App_Directum/Project Conscole App Directum/obj/Debug/net6.0/ref/Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.exe
+C:\Users\Андрей\Downloads\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.deps.json
+C:\Users\Андрей\Downloads\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.runtimeconfig.json
+C:\Users\Андрей\Downloads\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.pdb
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.csproj.AssemblyReference.cache
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.AssemblyInfoInputs.cache
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.AssemblyInfo.cs
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\refint\Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.pdb
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.genruntimeconfig.cache
+C:\Users\Андрей\Downloads\Project Conscole App Directum\obj\Debug\net6.0\ref\Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.exe
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.deps.json
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.runtimeconfig.json
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\bin\Debug\net6.0\Project Conscole App Directum.pdb
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.csproj.AssemblyReference.cache
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.AssemblyInfoInputs.cache
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.AssemblyInfo.cs
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\refint\Project Conscole App Directum.dll
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.pdb
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\Project Conscole App Directum.genruntimeconfig.cache
+C:\Users\Андрей\Downloads\Тест_Лаврентьев_Директум\3 задание\Project Conscole App Directum\obj\Debug\net6.0\ref\Project Conscole App Directum.dll
